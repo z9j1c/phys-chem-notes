@@ -1,0 +1,9 @@
+[book]
+authors = ["z9j1c"]
+language = "ru"
+multilingual = true
+src = "src"
+title = "Физическая химия. МФТИ ФБМФ 2021-2022"
+
+[output.html]
+mathjax-support = true
